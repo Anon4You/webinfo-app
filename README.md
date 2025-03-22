@@ -34,7 +34,7 @@ The app features a clean and intuitive layout:
 
 ### Download
 You can download the app from here:  
-📥 **[Download WebInfo App](#)** *(Link will be added soon!)*
+📥 **[Download WebInfo App](https://github.com/Anon4You/webinfo-app/releases/download/v1.0/WebInfo_1.0.apk)**
 
 ---
 
